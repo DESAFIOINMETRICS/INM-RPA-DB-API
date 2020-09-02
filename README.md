@@ -9,7 +9,7 @@
 ## Detalhamento:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1. Capturar informações de uma página via API <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2. Inserir essas informações em um base de dados <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2. Inserir essas informações em uma base de dados <br>
 
 ## Pré-Condições: 
 
