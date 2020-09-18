@@ -1,21 +1,2 @@
-# INM-REQRES-API  
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Alt Text](https://github.com/desafioinmetrics/inm-reqres-api/raw/master/Inmetrics_Hard_Tech_Strong_Results.png)
-
-## Objetivo: 
-
- &emsp;&emsp;&emsp;Realizar uma demonstração de RPA com captura de dados
- 
-## Detalhamento:
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1. Capturar informações de uma página via API <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2. Inserir essas informações em uma base de dados <br>
-
-## Pré-Condições: 
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1. Utilize Java <br>
-
-## Entrega do Projeto
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Faça um *Fork* do projeto atual** <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Respeite a data de entrega definida** <br>
+Para que o código funcione será necessario a utilizaçao da biblioteca "Refit", esta biblioteca permitirá que façamos chamadas para API REST sem utilizarmos muito código
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![Alt Text](https://i2.wp.com/anthonygiretti.com/wp-content/uploads/2019/11/refit_logo6.png?fit=663%2C225&ssl=1)
